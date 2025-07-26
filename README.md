@@ -1175,6 +1175,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [TOBIAS MEYHÖFER](https://www.tobiasmeyhoefer.de)
 - [Tadashi Amano](https://tadashiamano.vercel.app)
 - [Taha Umar](https://tahaumar.site) [Full-Stack Developer]
+- [Tahir Saeed](https://tahir.web.app) [Frontend Focused - Full Stack Developer] [Open Source](https://github.com/MrTee99/webfolio)
 - [Taiizor](https://github.com/Taiizor) [.NET Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
